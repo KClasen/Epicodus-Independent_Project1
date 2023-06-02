@@ -1,8 +1,8 @@
 body {
     background-color:  rgb(15, 23, 42);
     font-family: 'Avenir', sans-serif;
-    color: rgb(148 163 184);
-    
+    color: rgb(148 163 184);  
+    padding: 50px; 
 }
 
 .sidebar {
@@ -11,10 +11,15 @@ body {
 }
 
 .column {
-    width: 600px;
+    width: 60%;
     float: right;
   }
 
+.title {
+    color:rgb(241, 240, 234);
+    font-weight: bold;
+}
+
 h1 {
-    color: rgb(242, 247, 244);
+    color: rgb(241, 240, 234);
 }
