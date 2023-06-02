@@ -5,6 +5,16 @@ body {
     
 }
 
+.sidebar {
+    width: 30%;
+    float: left;
+}
+
+.column {
+    width: 600px;
+    float: right;
+  }
+
 h1 {
     color: rgb(242, 247, 244);
 }
