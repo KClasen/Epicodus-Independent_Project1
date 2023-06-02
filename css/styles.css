@@ -1,6 +1,7 @@
 body {
     background-color:  rgb(15, 23, 42);
     font-family: 'Avenir', sans-serif;
+    font-size: larger;
     color: rgb(148 163 184);  
     padding: 50px; 
 }
@@ -15,9 +16,24 @@ body {
     float: right;
   }
 
+.shift {
+    text-indent: 150px;
+}
+
 .title {
     color:rgb(241, 240, 234);
-    font-weight: bold;
+}
+
+.title2 {
+    color: rgb(148 163 184);
+    font-size: smaller;
+
+}
+
+.title3 {
+    color: rgb(241, 240, 234);
+    font-weight: lighter;
+    font-size: smaller;
 }
 
 h1 {
