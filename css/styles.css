@@ -11,6 +11,11 @@ body {
     float: left;
 }
 
+.head {
+    font-size: 50px;
+    line-height: 0%;
+}
+
 .column {
     width: 60%;
     float: right;
