@@ -13,16 +13,18 @@ body {
 
 .head {
     font-size: 50px;
-    line-height: 0%;
+    line-height: 1;
 }
 
 .column {
     width: 60%;
-    float: right;
+    float:left;
   }
 
 .shift {
-    text-indent: 130px;
+    width: 60%;
+    margin-left: 13%;
+    
 }
 
 .title {
