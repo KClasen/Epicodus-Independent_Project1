@@ -69,7 +69,16 @@ h1 {
 
 a {
     text-decoration: none;
+    color:rgb(148 163 184);
+}
+
+a:link {
+    color:rgb(148 163 184);
+}
+
+a:hover {
     color:rgb(241, 240, 234);
+    font-size: x-large;
 }
 
 
