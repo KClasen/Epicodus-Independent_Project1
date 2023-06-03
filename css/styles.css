@@ -1,4 +1,7 @@
 body {
+    padding: 50px;
+    border:   rgb(15, 23, 42);
+    border-width: 3px;
     background-color:  rgb(15, 23, 42);
     font-family: 'Avenir', sans-serif;
     font-size: larger;
@@ -20,6 +23,10 @@ p {
 .head {
     font-size: 50px;
     line-height: 1;
+}
+
+img {
+    margin-left: 20px;
 }
 
 .column {
