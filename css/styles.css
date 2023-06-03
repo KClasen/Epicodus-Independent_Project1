@@ -67,18 +67,49 @@ h1 {
     margin-bottom: 100px;
 }
 
-a {
+.side {
+    text-decoration: none;
+    color:rgb(148 163 184);
+}
+.side:active {
     text-decoration: none;
     color:rgb(148 163 184);
 }
 
-a:link {
+.side:link {
     color:rgb(148 163 184);
 }
 
-a:hover {
+.side:visited {
+    color: rgb(148 163 184)
+}
+
+.side:hover {
     color:rgb(241, 240, 234);
     font-size: x-large;
 }
+
+.plinks {
+    text-decoration: none;
+    color: rgb(241, 240, 234);
+}
+
+.plinks.active {
+    text-decoration: none;
+    color: rgb(241, 240, 234);
+}
+
+.plinks.link {
+    color:rgb(241, 240, 234);
+}
+
+.plinks.visited {
+    color:rgb(241, 240, 234);
+}
+
+.plinks:hover {
+    color: rgb(148 163 184);
+}
+
 
 
