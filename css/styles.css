@@ -20,13 +20,11 @@ body {
 .column {
     width: 60%;
     float:left;
-    
   }
 
 .shift {
     width: 60%;
     margin-left: 125px;
-    
 }
 
 .title {
@@ -64,3 +62,9 @@ h1 {
 .bottom {
     margin-bottom: 100px;
 }
+
+a {
+    text-decoration: none;
+    color:rgb(241, 240, 234);
+}
+
