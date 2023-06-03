@@ -6,6 +6,10 @@ body {
     padding: 50px; 
 }
 
+p {
+    color:rgb(148 163 184);
+}
+
 .sidebar {
     width: 35%;
     float: left;
