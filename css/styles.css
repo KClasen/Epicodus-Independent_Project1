@@ -7,8 +7,9 @@ body {
 }
 
 .sidebar {
-    width: 30%;
+    width: 35%;
     float: left;
+    margin-right: 50px;
 }
 
 .head {
@@ -19,6 +20,7 @@ body {
 .column {
     width: 60%;
     float:left;
+    
   }
 
 .shift {
