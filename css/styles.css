@@ -23,7 +23,7 @@ body {
 
 .shift {
     width: 60%;
-    margin-left: 13%;
+    margin-left: 125px;
     
 }
 
@@ -40,6 +40,13 @@ body {
 .title3 {
     color: rgb(241, 240, 234);
     font-weight: lighter;
+    margin-left: 20px;
+}
+
+.title4 {
+    color: rgb(241, 240, 234);
+    font-weight: lighter;
+    margin-left: 45px;
 }
 
 h1 {
