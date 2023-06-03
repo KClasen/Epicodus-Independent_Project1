@@ -122,7 +122,9 @@ h1 {
 }
 
 .plinks:hover {
-    color: rgb(148 163 184);
+    color: rgb(241, 240, 234);
+    font-size: large;
+    font-weight: bold;
 }
 
 .footer {
@@ -149,6 +151,7 @@ h1 {
 
 .email:hover {
     color:rgb(241, 240, 234);
+    font-size: larger;
 }
 
 
