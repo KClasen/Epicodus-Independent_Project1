@@ -14,6 +14,7 @@ p {
     width: 35%;
     float: left;
     margin-right: 50px;
+    position: fixed;
 }
 
 .head {
@@ -22,8 +23,8 @@ p {
 }
 
 .column {
-    width: 60%;
     float:left;
+    margin-left: 50%;
   }
 
 .shift {
@@ -57,6 +58,12 @@ p {
     color: rgb(241, 240, 234);
     font-weight: lighter;
     margin-left: 125px;
+}
+
+.title6 {
+    color: rgb(241, 240, 234);
+    font-weight: lighter;
+    margin-left: 65px;
 }
 
 h1 {
@@ -94,16 +101,16 @@ h1 {
     color: rgb(241, 240, 234);
 }
 
-.plinks.active {
+.plinks:active {
     text-decoration: none;
     color: rgb(241, 240, 234);
 }
 
-.plinks.link {
+.plinks:link {
     color:rgb(241, 240, 234);
 }
 
-.plinks.visited {
+.plinks:visited {
     color:rgb(241, 240, 234);
 }
 
@@ -111,5 +118,30 @@ h1 {
     color: rgb(148 163 184);
 }
 
+.footer {
+    text-decoration: none;
+    position: fixed;
+    bottom: 0;
+    font-size: 12px;
+    color:rgb(148 163 184);
+}
+
+.email:active {
+    text-decoration: none;
+    color:rgb(148 163 184);
+}
+
+.email:link {
+    color:rgb(148 163 184);
+    text-decoration: none;
+}
+
+.email:visited {
+    color:rgb(148 163 184);
+}
+
+.email:hover {
+    color:rgb(241, 240, 234);
+}
 
 
