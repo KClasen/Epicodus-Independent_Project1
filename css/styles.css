@@ -22,7 +22,7 @@ body {
   }
 
 .shift {
-    text-indent: 150px;
+    text-indent: 130px;
 }
 
 .title {
@@ -31,14 +31,13 @@ body {
 
 .title2 {
     color: rgb(148 163 184);
-    font-size: smaller;
+    font-size: 14px;
 
 }
 
 .title3 {
     color: rgb(241, 240, 234);
     font-weight: lighter;
-    font-size: smaller;
 }
 
 h1 {
