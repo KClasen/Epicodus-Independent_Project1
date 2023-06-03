@@ -12,10 +12,11 @@
 
 ## Description
 
-_This page allows the user to get to know the developer in training, Katherine Clasen. It provides a photo, bio, work history, and links to projects in GitHub._
+_This page allows the user to get to know the developer in training, Katherine Clasen. It provides a photo, bio, work history, and links to projects in GitHub. https://kclasen.github.io/Epicodus-Independent_Project1/_
 
 ## Setup/Installation Requirements
 
+* _https://kclasen.github.io/Epicodus-Independent_Project1/_
 * _Open and enjoy!_
 
 
