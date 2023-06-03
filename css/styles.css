@@ -51,6 +51,16 @@ body {
     margin-left: 45px;
 }
 
+.title5 {
+    color: rgb(241, 240, 234);
+    font-weight: lighter;
+    margin-left: 125px;
+}
+
 h1 {
     color: rgb(241, 240, 234);
+}
+
+.bottom {
+    margin-bottom: 100px;
 }
